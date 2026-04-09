@@ -8,7 +8,7 @@
 - 🎓 B.Tech CSE Student  
 - 🌱 Currently learning Full Stack Development  
 - 💡 Love building real-world projects  
-- 📫 Reach me at: your-email@gmail.com  
+- 📫 Reach me at: paliwalharshita16@gmail.com  
 
 ---
 
@@ -30,6 +30,5 @@
 
 ---
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Harshita-Paliwal&show_icons=true&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshita-Paliwal&theme=radical)
