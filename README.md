@@ -25,8 +25,18 @@
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harshipali16)
+## 🌐 Socials
+
+  <a href="https://github.com/Harshita-Paliwal">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/getupharshi">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/harshipali16">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,react,node,express,mongodb)
 
