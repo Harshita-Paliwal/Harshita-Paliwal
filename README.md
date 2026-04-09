@@ -8,7 +8,7 @@
 📚 B.Tech CSE student passionate about building real-world projects.  
 💡 Currently working on projects like NextHireAI , SmartGroCart , Crudify , Billifyx.  
 🤝 I'm open to internships and collaboration on web development projects.  
-📫 How to reach me: https://www.linkedin.com/in/www.linkedin.com/in/harshipali16  
+📫 How to reach me: https://www.linkedin.com/in/harshipali16  
 ⚡ Fun fact: I'm always eager to learn new things, anytime and anywhere 🚀
 
 ---
