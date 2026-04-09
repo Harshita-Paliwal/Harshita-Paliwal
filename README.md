@@ -22,8 +22,15 @@
 ![Skills](https://skillicons.dev/icons?i=bootstrap,tailwind)
 
 ### 🧰 Tools & Platforms
-![Skills](https://skillicons.dev/icons?i=eclipse,vscode,idea,git,github,postman)
+<p>
+  <!-- Skillicons (supported ones) -->
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,git,github,postman" />
 
+  <!-- Custom Icons -->
+  <img src="https://img.icons8.com/color/48/chatgpt.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/canva.png" height="40"/>
+</p>
 ---
 
 ## 🌐 Socials
