@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Harshita Paliwal
-
-💻 Web Developer | 🚀 Tech Enthusiast  
+💻 Web Developer 
 
 ---
 
-## 🌟 About Me
-- 🎓 B.Tech CSE Student  
-- 🌱 Currently learning Full Stack Development  
-- 💡 Love building real-world projects  
-- 📫 Reach me at: paliwalharshita16@gmail.com  
+🌱 I'm currently learning Full Stack Development (Java + MERN) and improving my DSA skills.  
+💻 Currently doing an internship at 4everCloud Technologies Pvt. Ltd. as an Full stack intern.
+📚 B.Tech CSE student passionate about building real-world projects.  
+💡 Currently working on projects like NextHireAI , SmartGroCart , Crudify , Billifyx.  
+🤝 I'm open to internships and collaboration on web development projects.  
+📫 How to reach me: https://www.linkedin.com/in/www.linkedin.com/in/harshipali16  
+⚡ Fun fact: I'm always eager to learn new things, anytime and anywhere 🚀
 
 ---
 ## 🛠️ Skills
@@ -38,7 +39,6 @@
   </a>
 </p>
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,react,node,express,mongodb)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Paliwal&theme=react-dark)
 
