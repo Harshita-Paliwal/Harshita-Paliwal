@@ -26,7 +26,7 @@
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,react,node,express,mongodb)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshita-Paliwal&theme=react-dark)
 
 ---
 ## 📊 GitHub Stats
