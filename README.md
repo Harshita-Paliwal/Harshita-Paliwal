@@ -21,14 +21,15 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Harshita-Paliwal&show_icons=true&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshita-Paliwal&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/harshipali16)
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,java,mysql,react,node,express,mongodb)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+---
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Harshita-Paliwal&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshita-Paliwal&theme=radical)
