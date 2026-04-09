@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="40"/>
   <img src="https://img.icons8.com/color/48/canva.png" height="40"/>
 </p>
----
+
 
 ## 🌐 Socials
 
