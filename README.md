@@ -12,7 +12,7 @@
 ⚡ Fun fact: I'm always eager to learn new things, anytime and anywhere 🚀
 
 ---
-## 🛠️ Skills
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Development
